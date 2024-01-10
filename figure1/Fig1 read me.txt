@@ -1,0 +1,10 @@
+Data Description
+Content: Figure 1 - Survival rate of nematodes exposed to landfill leachate treated with different processes
+Factors: Time, Exposure conditions
+Quantity: Data divided into four groups - CK, RAW, MBR, NFRO, with four replicates each
+Usage: For subsequent analysis, use data from the first three days, i.e., 72 hours of exposure.
+
+
+
+
+
